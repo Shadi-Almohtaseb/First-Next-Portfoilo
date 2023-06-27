@@ -7,13 +7,13 @@ const Main = () => {
     <div className="lg:px-14 flex flex-col lg:flex-row lg:items-start items-center w-full px-2 lg:gap-28 bg-[url('https://wallpaperaccess.com/full/1567665.png')] lg:h-screen h-full bg-no-repeat bg-cover">
       <div className="lg:text-start text-center flex-1 lg:mt-[11rem] mt-[7rem] w-full">
         <div className="text-white">
-          <p className="mb-7">LET'S BUILD SOMETHING PHENOMENAL</p>
+          <p className="mb-7">LETS BUILD SOMETHING PHENOMENAL</p>
           <h2 className="text-5xl mb-6">
             Hi There, <span className="text-cyan-300">This is Shadi</span>{" "}
           </h2>
-          <h3 className="text-3xl text-cyan-300 mb-9">I'm a web Develpoer,</h3>
+          <h3 className="text-3xl text-cyan-300 mb-9">Im a web Develpoer</h3>
           <h4 className=" text-blue-200 font-light text-lg ">
-            i'm a front-end developer, i'm using a very special tools to build
+            im a front-end developer, im using a very special tools to build
             such an amazing web sites, and I hope you like it, nothing better
             than make a wonderful design that makes the customer happy.
           </h4>
@@ -32,7 +32,7 @@ const Main = () => {
           <p className="px-12 py-7 lg:text-xl">
             In order to make a phenomenal websites, you have to spend hours or
             even days focusing on the details just to make the customer happy,
-            with that's said , its still an exciting thing to do such things.
+            with thats said , its still an exciting thing to do such things.
           </p>
         </div>
       </div>

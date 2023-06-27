@@ -109,7 +109,7 @@ const Navbar = () => {
             </div>
             <div className="my-6">
               <p className="text-white">
-                Let's build something legendary together
+                Lets build something legendary together
               </p>
             </div>
             <hr className="absolute w-[80%]" />
@@ -161,7 +161,7 @@ const Navbar = () => {
           <hr className="my-4" />
           <div className="-mr-20">
             <div className="uppercase mb-6">
-              <p className="text-white">Let's Contact</p>
+              <p className="text-white">Lets Contact</p>
             </div>
             <div className="flex items-center justify-center">
               <div className="flex flex-wrap gap-3">
