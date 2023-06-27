@@ -11,7 +11,7 @@ learning next.js and building a simple portfolio
 ## Demo
 
 [URL you can see the app from here!
-](https://first-next-portfoilo.vercel.app/)https://first-next-portfoilo.vercel.app/
+](https://first-next-portfoilo.vercel.app/)
 
 ## App Preview
 
